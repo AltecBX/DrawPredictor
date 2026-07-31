@@ -1,0 +1,1 @@
+Jerry Pattern Lab logo asset is managed separately from source text files.
