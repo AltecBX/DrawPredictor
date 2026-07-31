@@ -1,1 +1,2 @@
 Jerry Pattern Lab logo asset is managed separately from source text files.
+Pages deployment trigger: 2026-07-31.
